@@ -1,0 +1,201 @@
+customer_id,purchase_count,total_spent,last_purchase_days,transaction_amount,category,review_text,fake
+1,7,1902,47,1906,One-time,"Very bad quality, waste of money",0
+2,15,8255,113,1415,Loyal,Amazing! Highly recommend,0
+3,11,8220,94,549,Loyal,"Very bad quality, waste of money",0
+4,8,6716,110,1730,At Risk,"Great product, loved it!",0
+5,7,5634,62,560,At Risk,Amazing! Highly recommend,0
+6,19,4161,116,4362,At Risk,"Very bad quality, waste of money",0
+7,11,362,69,1374,At Risk,"Okay product, not great",0
+8,11,6387,76,1205,Loyal,Excellent service and fast delivery,0
+9,4,8915,16,1877,One-time,"Great product, loved it!",0
+10,8,9308,90,3191,At Risk,"Very bad quality, waste of money",0
+11,3,2149,90,3536,At Risk,"Great product, loved it!",0
+12,2,5523,48,1860,One-time,Fake fake fake offer click here http://spam.com,1
+13,12,4648,85,2973,At Risk,"Great product, loved it!",0
+14,6,3208,39,2264,One-time,Amazing! Highly recommend,0
+15,2,7258,100,4236,At Risk,Fake fake fake offer click here http://spam.com,1
+16,1,7500,33,763,One-time,Amazing! Highly recommend,0
+17,12,3270,94,3652,At Risk,Excellent service and fast delivery,0
+18,12,9974,101,4184,Loyal,Fake fake fake offer click here http://spam.com,1
+19,17,2355,23,3572,One-time,"Okay product, not great",0
+20,10,1254,10,4318,One-time,"Great product, loved it!",0
+21,16,4599,118,4798,At Risk,"Very bad quality, waste of money",0
+22,15,6395,69,4899,Loyal,Worst experience ever,0
+23,15,6297,100,1293,Loyal,"Great product, loved it!",0
+24,19,9988,34,3759,Loyal,"Great product, loved it!",0
+25,12,1748,52,1131,One-time,Excellent service and fast delivery,0
+26,3,5639,95,505,At Risk,"Okay product, not great",0
+27,5,9737,10,4974,One-time,Worst experience ever,0
+28,19,4299,19,944,One-time,Fake fake fake offer click here http://spam.com,1
+29,7,8545,58,1434,One-time,Fake fake fake offer click here http://spam.com,1
+30,9,2657,96,2008,At Risk,Fake fake fake offer click here http://spam.com,1
+31,7,5692,1,3122,One-time,Amazing! Highly recommend,0
+32,18,198,69,2046,At Risk,Amazing! Highly recommend,0
+33,4,2300,109,4335,At Risk,"Very bad quality, waste of money",0
+34,14,3061,4,554,One-time,Worst experience ever,0
+35,18,5073,16,1264,Loyal,Fake fake fake offer click here http://spam.com,1
+36,9,4533,24,1581,One-time,Amazing! Highly recommend,0
+37,2,2969,80,3490,At Risk,"Very bad quality, waste of money",0
+38,15,1056,119,873,At Risk,"Okay product, not great",0
+39,7,8452,2,978,One-time,"Very bad quality, waste of money",0
+40,12,5799,113,183,Loyal,Amazing! Highly recommend,0
+41,8,7044,92,2155,At Risk,Excellent service and fast delivery,0
+42,15,4593,32,3677,One-time,Excellent service and fast delivery,0
+43,3,9592,91,4830,At Risk,Fake fake fake offer click here http://spam.com,1
+44,14,5011,84,1902,Loyal,Excellent service and fast delivery,0
+45,17,4087,24,4960,One-time,Fake fake fake offer click here http://spam.com,1
+46,4,9819,12,4225,One-time,Fake fake fake offer click here http://spam.com,1
+47,18,6115,50,2983,Loyal,Amazing! Highly recommend,0
+48,8,1318,35,3334,One-time,Excellent service and fast delivery,0
+49,4,4596,33,4348,One-time,Fake fake fake offer click here http://spam.com,1
+50,2,4835,33,2861,One-time,Worst experience ever,0
+51,6,4655,61,1300,At Risk,"Okay product, not great",0
+52,10,9246,51,3562,One-time,"Very bad quality, waste of money",0
+53,4,8150,43,1306,One-time,"Very bad quality, waste of money",0
+54,18,3546,101,3426,At Risk,Amazing! Highly recommend,0
+55,12,1145,12,3536,One-time,Excellent service and fast delivery,0
+56,2,6993,67,3634,At Risk,Excellent service and fast delivery,0
+57,10,1793,65,1446,At Risk,Fake fake fake offer click here http://spam.com,1
+58,4,3536,33,3687,One-time,"Great product, loved it!",0
+59,14,8854,40,3380,Loyal,Fake fake fake offer click here http://spam.com,1
+60,16,5995,74,2753,Loyal,"Okay product, not great",0
+61,15,3454,43,520,One-time,Worst experience ever,0
+62,8,325,44,1403,One-time,"Very bad quality, waste of money",0
+63,14,4993,29,2833,One-time,Fake fake fake offer click here http://spam.com,1
+64,8,7122,13,2881,One-time,"Great product, loved it!",0
+65,16,9251,12,407,Loyal,"Great product, loved it!",0
+66,13,5700,95,3069,Loyal,Fake fake fake offer click here http://spam.com,1
+67,18,8096,46,717,Loyal,Amazing! Highly recommend,0
+68,15,9107,2,4518,Loyal,"Very bad quality, waste of money",0
+69,13,7783,115,1195,Loyal,Amazing! Highly recommend,0
+70,9,4742,114,4235,At Risk,Worst experience ever,0
+71,15,7779,35,3769,Loyal,"Great product, loved it!",0
+72,13,8308,87,2795,Loyal,"Great product, loved it!",0
+73,1,7439,81,589,At Risk,"Okay product, not great",0
+74,7,9535,90,2829,At Risk,Worst experience ever,0
+75,9,2305,8,4186,One-time,"Great product, loved it!",0
+76,1,1169,93,4885,At Risk,Worst experience ever,0
+77,12,3544,26,3825,One-time,"Very bad quality, waste of money",0
+78,8,1160,74,2558,At Risk,Excellent service and fast delivery,0
+79,11,2427,90,2829,At Risk,"Great product, loved it!",0
+80,19,3520,34,974,One-time,"Okay product, not great",0
+81,17,401,115,3006,At Risk,"Very bad quality, waste of money",0
+82,8,706,105,1631,At Risk,Fake fake fake offer click here http://spam.com,1
+83,3,3270,7,3374,One-time,Worst experience ever,0
+84,3,799,68,4535,At Risk,Fake fake fake offer click here http://spam.com,1
+85,1,5188,58,305,One-time,Amazing! Highly recommend,0
+86,5,9431,117,4854,At Risk,"Very bad quality, waste of money",0
+87,10,290,114,1888,At Risk,Fake fake fake offer click here http://spam.com,1
+88,7,1080,109,1994,At Risk,"Great product, loved it!",0
+89,9,3075,75,59,At Risk,Worst experience ever,0
+90,7,6202,29,2921,One-time,Excellent service and fast delivery,0
+91,9,1284,36,847,One-time,"Very bad quality, waste of money",0
+92,8,3427,89,1065,At Risk,"Great product, loved it!",0
+93,12,3494,21,1874,One-time,"Okay product, not great",0
+94,2,8419,36,4519,One-time,Amazing! Highly recommend,0
+95,1,1916,10,3186,One-time,Worst experience ever,0
+96,16,5954,101,2243,Loyal,"Very bad quality, waste of money",0
+97,5,6809,73,273,At Risk,"Very bad quality, waste of money",0
+98,3,669,24,4998,One-time,Excellent service and fast delivery,0
+99,12,5542,64,4208,Loyal,Excellent service and fast delivery,0
+100,8,1995,99,3975,At Risk,"Okay product, not great",0
+101,3,2833,49,4834,One-time,Amazing! Highly recommend,0
+102,1,3963,99,4050,At Risk,"Okay product, not great",0
+103,3,7555,112,1683,At Risk,"Great product, loved it!",0
+104,5,4114,36,2202,One-time,"Great product, loved it!",0
+105,15,1786,82,560,At Risk,"Okay product, not great",0
+106,14,3109,113,434,At Risk,Amazing! Highly recommend,0
+107,3,7906,103,454,At Risk,"Okay product, not great",0
+108,1,254,96,4663,At Risk,Amazing! Highly recommend,0
+109,5,1509,24,4621,One-time,Amazing! Highly recommend,0
+110,14,884,23,2050,One-time,Fake fake fake offer click here http://spam.com,1
+111,7,8196,62,2806,At Risk,Worst experience ever,0
+112,9,7660,96,1718,At Risk,Amazing! Highly recommend,0
+113,15,7443,37,1510,Loyal,Excellent service and fast delivery,0
+114,15,7306,12,3686,Loyal,Amazing! Highly recommend,0
+115,10,5696,113,2774,At Risk,Amazing! Highly recommend,0
+116,13,5901,55,4859,Loyal,Amazing! Highly recommend,0
+117,19,2906,13,4228,One-time,Fake fake fake offer click here http://spam.com,1
+118,7,637,23,2098,One-time,Fake fake fake offer click here http://spam.com,1
+119,17,6086,89,4196,Loyal,"Great product, loved it!",0
+120,4,1941,99,4830,At Risk,Fake fake fake offer click here http://spam.com,1
+121,5,8816,105,766,At Risk,Excellent service and fast delivery,0
+122,7,7071,30,4594,One-time,Excellent service and fast delivery,0
+123,13,5725,17,4633,Loyal,Fake fake fake offer click here http://spam.com,1
+124,15,3050,113,1873,At Risk,"Okay product, not great",0
+125,11,8092,62,2131,Loyal,Worst experience ever,0
+126,4,4880,84,3469,At Risk,Fake fake fake offer click here http://spam.com,1
+127,13,2468,112,1624,At Risk,Amazing! Highly recommend,0
+128,7,6755,89,299,At Risk,"Very bad quality, waste of money",0
+129,19,8273,86,723,Loyal,Worst experience ever,0
+130,2,4595,13,4583,One-time,Worst experience ever,0
+131,10,9263,59,2215,One-time,Excellent service and fast delivery,0
+132,13,6102,19,820,Loyal,Worst experience ever,0
+133,6,6714,49,4012,One-time,Fake fake fake offer click here http://spam.com,1
+134,12,9458,100,4413,Loyal,Amazing! Highly recommend,0
+135,12,6019,12,2034,Loyal,Amazing! Highly recommend,0
+136,11,953,61,1127,At Risk,"Great product, loved it!",0
+137,7,4246,105,285,At Risk,Amazing! Highly recommend,0
+138,1,3869,19,438,One-time,Amazing! Highly recommend,0
+139,1,674,76,3087,At Risk,Excellent service and fast delivery,0
+140,13,1248,9,4908,One-time,Amazing! Highly recommend,0
+141,9,6393,71,1898,At Risk,"Great product, loved it!",0
+142,3,6557,28,4769,One-time,"Very bad quality, waste of money",0
+143,7,7609,78,2864,At Risk,Fake fake fake offer click here http://spam.com,1
+144,6,4877,95,3424,At Risk,Excellent service and fast delivery,0
+145,8,3954,52,3328,One-time,"Very bad quality, waste of money",0
+146,9,2591,83,1302,At Risk,Excellent service and fast delivery,0
+147,5,3224,111,4031,At Risk,"Okay product, not great",0
+148,1,5791,16,4723,One-time,Worst experience ever,0
+149,19,3151,117,2172,At Risk,"Okay product, not great",0
+150,10,104,69,4580,At Risk,Amazing! Highly recommend,0
+151,12,5322,99,2200,Loyal,"Very bad quality, waste of money",0
+152,15,5415,12,4909,Loyal,Amazing! Highly recommend,0
+153,9,4969,25,1379,One-time,Worst experience ever,0
+154,17,976,52,1408,One-time,Excellent service and fast delivery,0
+155,17,9283,85,2532,Loyal,Worst experience ever,0
+156,12,7127,100,4592,Loyal,"Great product, loved it!",0
+157,7,4242,53,2067,One-time,Worst experience ever,0
+158,2,7066,23,1381,One-time,"Great product, loved it!",0
+159,3,7179,16,4394,One-time,Worst experience ever,0
+160,17,8087,57,4311,Loyal,Fake fake fake offer click here http://spam.com,1
+161,5,6899,39,1408,One-time,"Great product, loved it!",0
+162,17,4565,109,4687,At Risk,"Very bad quality, waste of money",0
+163,17,735,53,4904,One-time,Amazing! Highly recommend,0
+164,17,1793,42,3227,One-time,Amazing! Highly recommend,0
+165,2,9974,58,2178,One-time,"Okay product, not great",0
+166,2,4852,39,2230,One-time,Amazing! Highly recommend,0
+167,5,8411,14,4942,One-time,Excellent service and fast delivery,0
+168,1,930,95,187,At Risk,Fake fake fake offer click here http://spam.com,1
+169,1,5277,5,3522,One-time,Worst experience ever,0
+170,19,9661,35,2882,Loyal,"Okay product, not great",0
+171,2,9032,87,3629,At Risk,Excellent service and fast delivery,0
+172,12,8408,93,3081,Loyal,Excellent service and fast delivery,0
+173,6,6049,107,4214,At Risk,"Great product, loved it!",0
+174,4,2938,75,2643,At Risk,Amazing! Highly recommend,0
+175,11,1250,18,4350,One-time,"Very bad quality, waste of money",0
+176,17,7660,111,3868,Loyal,"Very bad quality, waste of money",0
+177,6,2031,76,4188,At Risk,"Okay product, not great",0
+178,5,9304,9,3873,One-time,Fake fake fake offer click here http://spam.com,1
+179,2,1764,74,4092,At Risk,"Very bad quality, waste of money",0
+180,6,1181,58,1956,One-time,Worst experience ever,0
+181,11,612,108,810,At Risk,"Very bad quality, waste of money",0
+182,16,7905,17,3495,Loyal,"Okay product, not great",0
+183,16,5337,102,949,Loyal,"Very bad quality, waste of money",0
+184,1,659,7,4505,One-time,Worst experience ever,0
+185,9,3772,46,2997,One-time,"Great product, loved it!",0
+186,6,7504,13,1769,One-time,Fake fake fake offer click here http://spam.com,1
+187,16,3443,40,330,One-time,"Okay product, not great",0
+188,3,4170,42,3316,One-time,"Great product, loved it!",0
+189,4,9762,9,1937,One-time,"Great product, loved it!",0
+190,19,680,50,3316,One-time,"Great product, loved it!",0
+191,3,7104,27,716,One-time,Excellent service and fast delivery,0
+192,19,8230,66,4238,Loyal,Fake fake fake offer click here http://spam.com,1
+193,7,3247,5,721,One-time,Amazing! Highly recommend,0
+194,9,4349,29,2019,One-time,Fake fake fake offer click here http://spam.com,1
+195,1,1779,37,4206,One-time,Excellent service and fast delivery,0
+196,8,3606,38,3172,One-time,Amazing! Highly recommend,0
+197,7,7353,83,4749,At Risk,Fake fake fake offer click here http://spam.com,1
+198,18,2844,8,4827,One-time,"Great product, loved it!",0
+199,8,9535,112,3950,At Risk,"Okay product, not great",0
+200,1,5288,109,573,At Risk,Amazing! Highly recommend,0
